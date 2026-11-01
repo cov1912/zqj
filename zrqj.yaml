@@ -5,3 +5,10 @@ payload:
   - +.indevs.in
   - +.163.com
   - +.deepseek.com
+   # GitHub 相关（直连）
+  - +.github.com
+  - +.githubusercontent.com
+  - +.githubassets.com
+  - +.github.io
+  - +.githubapp.com
+  - +.githubstatus.com
