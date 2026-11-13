@@ -5,6 +5,7 @@ payload:
   - +.indevs.in
   - +.163.com
   - +.deepseek.com
+  - +.douyin.com
    # GitHub 相关（直连）
   - +.github.com
   - +.githubusercontent.com
