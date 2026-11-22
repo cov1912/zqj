@@ -1,15 +1,15 @@
 payload:
   #不需要开代理
-  - +.catvod.com
-  - +.4666888.xyz
-  - +.indevs.in
-  - +.163.com
-  - +.deepseek.com
-  - +.douyin.com
+  - catvod.com
+  - 4666888.xyz
+  - indevs.in
+  - 163.com
+  - deepseek.com
+  - douyin.com
    # GitHub 相关（直连）
-  - +.github.com
-  - +.githubusercontent.com
-  - +.githubassets.com
-  - +.github.io
-  - +.githubapp.com
-  - +.githubstatus.com
+  - github.com
+  - githubusercontent.com
+  - githubassets.com
+  - github.io
+  - githubapp.com
+  - githubstatus.com
